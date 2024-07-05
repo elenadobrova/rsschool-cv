@@ -52,7 +52,7 @@ alert( result );
 2. Courses:
 * HTML/CSS (CanSheCode)
 * JavaScript (in process...) (CanSheCode)
-* [CS50 lectures] ([CS50](https://www.youtube.com/cs50))
+* ([CS50](https://www.youtube.com/cs50))
 
 
 ## Experience
