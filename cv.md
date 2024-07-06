@@ -67,4 +67,3 @@ alert( result );
 2. Turkish - C1
 3. English - B1
 4. Romanian - A1
-
