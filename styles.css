@@ -1,8 +1,9 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #FFEFEF;
+    background-color: pink;
 }
 
 * {
     box-sizing: border-box;
 }
+
